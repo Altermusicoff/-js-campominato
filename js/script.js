@@ -58,7 +58,7 @@ function theGame(){
 
   var boxSteps = [];
 
-  for (var i = 0; i < 2; i++) {
+  for (var i = 0; i < 100; i++) {
 
     var steps = parseInt(prompt('Take a step, but be careful!'));
 
